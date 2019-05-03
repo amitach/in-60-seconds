@@ -2,7 +2,7 @@
 
 ---
 
-## Add Some Slide Candy
+## CODING TECHNIQUES
 
 ![](assets/img/presentation.png)
 
